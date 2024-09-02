@@ -9,7 +9,7 @@ const NavBar = () => {
             MCQ
             <div className="bg-blue-600 text-white inline">Questions.net</div>
           </div>
-          <div className=" text-bold py-4 flex  gap-x-2 md:text text-sm ">
+          <div className=" text-bold py-4 flex  gap-x-2 md:text text-sm font-bold ">
             <button className="bg-blue-600 text-white rounded md:rounded-md px-2 md:px-4 py-1 md:py-2">
               Login
             </button>
