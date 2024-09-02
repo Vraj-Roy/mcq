@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <div className="flex mx-4  md:mx-10 my-10 flex-wrap justify-between gap-y-4 md:gap-y-6  z-10">
         <div className="  border-2  w-[400px]  bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             Engineering
           </div>
           <div className="flex p-2">
@@ -26,7 +26,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             General Aptitude
           </div>
           <div className="flex p-2">
@@ -43,7 +43,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             Computer
           </div>
           <div className="flex p-2">
@@ -63,7 +63,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             GK
           </div>
           <div className="flex p-2">
@@ -81,7 +81,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             ITI
           </div>
           <div className="flex p-2">
@@ -95,7 +95,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             Previous Exams
           </div>
           <div className="flex p-2">
@@ -109,7 +109,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             CBSE 12
           </div>
           <div className="flex p-2">
@@ -123,7 +123,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             CBSE 9
           </div>
           <div className="flex p-2">
@@ -138,7 +138,7 @@ export default function Home() {
           </div>
         </div>
         <div className="     w-[400px] border-2 bg-white  shadow-md hover:scale-[1.01] rounded-md overflow-hidden  duration-200 transition-all hover:shadow-lg cursor-pointer p-3">
-          <div className="bg-zinc-200 font-bold text-green-700 p-2 rounded">
+          <div className="bg-zinc-200 font-bold text-blue-600 p-2 rounded">
             CBSE 10
           </div>
           <div className="flex p-2">

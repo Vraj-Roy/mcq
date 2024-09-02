@@ -18,7 +18,7 @@ const NavBar = () => {
             </button>
           </div>
         </div>
-        <div className="w-full h-fit p-2 flex bg-blue-600 text-white font-bold gap-x-6 rounded flex-wrap md:flex-nowrap md:justify-between md:px-4">
+        <div className="w-full h-fit p-2 flex bg-blue-600 text-white font-bold gap-x-6 rounded flex-wrap md:flex-nowrap md:justify-between md:px-4 text-xs md:text-lg">
           <div className="cursor-pointer">Engineering</div>
           <div className="cursor-pointer">General Aptitude</div>
           <div className="cursor-pointer">Computer</div>
@@ -31,7 +31,7 @@ const NavBar = () => {
           <div className="cursor-pointer">CBSE 9</div>
         </div>
       </div>
-      <div className="md:h-28 h-36"></div>
+      <div className="md:h-28 h-28"></div>
     </>
   );
 };
