@@ -4,20 +4,20 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <>
-      <div className="bg-blue-950 h-[90vh] w-full relative ">
+      <div className=" h-[90vh] w-full relative ">
         <img
           src="exam.png"
           className="w-full h-[90vh] object-cover opacity-30"
         />
-        <div className="absolute top-0 bottom-0 right-0 left-0 m-auto w-fit h-fit ">
+        <div className="absolute top-0 bottom-0 right-0 left-0 m-auto w-fit h-fit  ">
           <div className="text-6xl text-green-500 font-bold my-8">
             THE MOST POPULAR ONLINE EXAM SITE
           </div>
-          <div className="text-3xl text-white bg-green-500 w-fit m-auto my-8">
+          <div className="text-3xl  bg-green-500 w-fit m-auto my-8">
             We Will Open The World Of Knowledge For You !
           </div>
           <div className="flex gap-x-5 m-auto w-fit my-8">
-            <button className="bg-green-500 text-white px-4 py-2 rounded">
+            <button className="bg-green-500  px-4 py-2 rounded">
               Get Started
             </button>
             <button className="bg-white text-green-500 px-4 py-2 rounded">
@@ -175,33 +175,33 @@ export default function Home() {
           </div>
         </div>
       </div> */}
-      <div className="flex w-fit m-auto mt-5">
-        <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-          <div className="text-white text-2xl">Get Support</div>
+      <div className="flex w-fit m-auto mt-5  ">
+        <div className="w-96   border-2  p-4 rounded-md shadow">
+          <div className=" text-2xl">Get Support</div>
           <div className="text-green-600 text-lg font-bold my-2">
             Support And Services
           </div>
-          <div className="text-white text-sm">
+          <div className=" text-sm">
             Our Support team are at your service. If need anything, request or
             support! We are available for You!
           </div>
         </div>
-        <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-          <div className="text-white text-2xl">Get Support</div>
+        <div className="w-96   border-2  p-4 rounded-md">
+          <div className=" text-2xl">Get Support</div>
           <div className="text-green-600 text-lg font-bold my-2">
             Support And Services
           </div>
-          <div className="text-white text-sm">
+          <div className=" text-sm">
             Our Support team are at your service. If need anything, request or
             support! We are available for You!
           </div>
         </div>
-        <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-          <div className="text-white text-2xl">Get Support</div>
+        <div className="w-96   border-2  p-4 rounded-md">
+          <div className=" text-2xl">Get Support</div>
           <div className="text-green-600 text-lg font-bold my-2">
             Support And Services
           </div>
-          <div className="text-white text-sm">
+          <div className=" text-sm">
             Our Support team are at your service. If need anything, request or
             support! We are available for You!
           </div>
@@ -212,32 +212,32 @@ export default function Home() {
           Out Most Popular subjects
         </div>
         <div className="flex w-fit m-auto mt-5">
-          <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-            <div className="text-white text-2xl">Get Support</div>
+          <div className="w-96   border-2  p-4 rounded-md">
+            <div className=" text-2xl">Get Support</div>
             <div className="text-green-600 text-lg font-bold my-2">
               Support And Services
             </div>
-            <div className="text-white text-sm">
+            <div className=" text-sm">
               Our Support team are at your service. If need anything, request or
               support! We are available for You!
             </div>
           </div>
-          <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-            <div className="text-white text-2xl">Get Support</div>
+          <div className="w-96   border-2  p-4 rounded-md">
+            <div className=" text-2xl">Get Support</div>
             <div className="text-green-600 text-lg font-bold my-2">
               Support And Services
             </div>
-            <div className="text-white text-sm">
+            <div className=" text-sm">
               Our Support team are at your service. If need anything, request or
               support! We are available for You!
             </div>
           </div>
-          <div className="w-96   border-2 bg-blue-950 p-4 rounded-md">
-            <div className="text-white text-2xl">Get Support</div>
+          <div className="w-96   border-2  p-4 rounded-md">
+            <div className=" text-2xl">Get Support</div>
             <div className="text-green-600 text-lg font-bold my-2">
               Support And Services
             </div>
-            <div className="text-white text-sm">
+            <div className=" text-sm">
               Our Support team are at your service. If need anything, request or
               support! We are available for You!
             </div>
